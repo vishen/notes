@@ -9,3 +9,5 @@
 ## Zig
 
 - https://github.com/ziglang/zig/pull/2944/files
+- https://github.com/nrdmn/uefi-examples
+- https://github.com/nrdmn/uefi-paint
